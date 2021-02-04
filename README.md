@@ -1,2 +1,5 @@
 # hello-world
-Just a repository
+
+Hi!
+Jason Yin here, nice to join in this society.
+Hope we all enjoy it!
